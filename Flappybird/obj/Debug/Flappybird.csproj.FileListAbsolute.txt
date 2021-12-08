@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\bin\Debug\Flappybird.exe.config
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\bin\Debug\Flappybird.exe
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\bin\Debug\Flappybird.pdb
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.Form1.resources
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.Properties.Resources.resources
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.exe
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.pdb
+C:\Users\opilane\source\repos\Titpe21\Flappybird\Flappybird\obj\Debug\Flappybird.grounds.resources
